@@ -1,0 +1,8 @@
+{
+  "name": "ecodrive25",
+  "version": "1.0.0",
+  "description": "Site vitrine ECODRIVE25 - ménage et nettoyage à Pont-de-Chéruy",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
