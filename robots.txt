@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://VOTRE-PSEUDO.github.io/ecodrive25/sitemap.xml
+Sitemap: https://ecodrive25.fr/sitemap.xml

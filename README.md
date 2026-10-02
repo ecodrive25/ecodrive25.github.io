@@ -5,7 +5,7 @@
 2. Bouton « + » → « New repository » → nom : `ecodrive25` → Public → Create.
 3. « uploading an existing file » → glissez TOUS les fichiers (index.html, robots.txt, sitemap.xml, dossier images…) → Commit.
 4. Settings → Pages → Source : « Deploy from a branch » → branche `main`, dossier `/ (root)` → Save.
-5. Après 1 à 2 minutes, le site est en ligne : https://VOTRE-PSEUDO.github.io/ecodrive25/
+5. Après 1 à 2 minutes, le site est en ligne : https://ecodrive25.fr/
 6. Dans index.html, robots.txt et sitemap.xml, remplacez `VOTRE-PSEUDO` par votre nom GitHub.
 
 ## Railway (optionnel)
